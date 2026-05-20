@@ -321,6 +321,7 @@ schema-level — no signal construction, no outcome variables examined.
   paper's exclusions
 - Data quality flags: timestamp gaps, anomalous sessions, and any
   sessions requiring exclusion documented
+- Final data/README.md file created.
 
 **Constraint:** No LOB-derived features computed beyond the
 reconstruction validation. No forward returns constructed or examined.
@@ -590,5 +591,3 @@ Standard final phase analogous to Phase 6 of the original project.
 - CLAUDE.md updated in both repositories
 - Final PDF committed to the appropriate repository per the paper
   decision recorded in Phase 4
-
----
